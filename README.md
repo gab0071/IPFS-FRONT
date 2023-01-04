@@ -17,7 +17,7 @@ Making the frontend part of my project NFT collection with metadata stored on IP
 
 ```bash
 # Clone this project
-$ git clone https://github.com/catherinee24/IPFS-FRONT
+$ git clone https://github.com/gab0071/IPFS-FRONT
 
 # Access
 $ cd IPFS-FRONT
