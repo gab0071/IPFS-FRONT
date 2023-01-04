@@ -43,8 +43,6 @@ export const NFT_CONTRACT_ADDRESS = "address of your NFT contract";
 export const abi = "---your abi---";
 ```
 
-We created some utility files which would help us to better interact with the contract. Create a `utils` folder inside the `my-app` folder and inside the folder create 4 files: `addLiquidity.js`, `removeLiquidity.js`, `getAmounts.js`, and `swap.js`.  
-
 <h2> Technologies / Built With </h2>
 
 - Next.js
